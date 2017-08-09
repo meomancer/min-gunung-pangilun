@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irwan Fathurrahman",
+        "birthday": "Padang, 16 April 1990",
+        "alamat": "Jalan Mandala 2 no 21, Desa Mandala Mekar, Kecamatan Cimeunyan, Bandung",
+        "handphone": "0811231604",
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-6.889665, 107.665167'>here</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665167,
+          -6.889665
+        ]
+      }
+    }
+  ]
+}
