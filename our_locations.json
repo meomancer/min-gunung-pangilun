@@ -35,6 +35,23 @@
           -6.361715
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M. Junaidi Abdullah ",
+        "birthday": "Padang, 26 November 1990",
+        "alamat": "Desa Air Berau, Kecamatan Pondok Suguh, Kabupaten Mukomuko, Provinsi Bengkulu",
+        "handphone": "0821 7767 0726",
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-0.911231,100.366397'>here</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366397,
+          -0.911231
+        ]
+      }
     }
   ]
 }
