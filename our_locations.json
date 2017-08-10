@@ -7,7 +7,7 @@
         "name": "Irwan Fathurrahman",
         "birthday": "Padang, 16 April 1990",
         "alamat": "Jalan Mandala 2 no 21, Desa Mandala Mekar, Kecamatan Cimeunyan, Bandung",
-        "handphone": "0811231604",
+        "handphone": "0811 23 1604",
         "googlemaps": "<a href='https://www.google.co.id/maps/place/-6.889665, 107.665167'>here</a>"
       },
       "geometry": {
@@ -15,6 +15,24 @@
         "coordinates": [
           107.665167,
           -6.889665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fannirridha",
+        "birthday": "Padang, 14 November 1990",
+        "alamat": "Jl. Masjid Almuhajirin, Perumahan Taman Bougainvillea Blok C No 11, Cinangka Sawangan Depok.",
+        "handphone": "0822 9947 3105",
+        "handphone 2": "0858 9156 0753",
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-6.361715,106.762003'>here</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.762003,
+          -6.361715
         ]
       }
     }
