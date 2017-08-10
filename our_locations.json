@@ -60,13 +60,13 @@
         "birthday": "Padang, 8 mai 1990",
         "alamat": "Jln. Gajah Mada Gang Filsafat No. 40/A Kelurahan Kampung Oli Kec. Nanggalo Kota Padang",
         "handphone": "0831 8107 6754",
-        "googlemaps": "<a href='https://www.google.co.id/maps/place/-0.911231,100.366397'>here</a>"
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-0.911391,100.365975'>here</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.366397,
-          -0.911231
+          100.365975,
+          -0.911391
         ]
       }
     }
