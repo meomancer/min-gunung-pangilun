@@ -121,5 +121,22 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adya Pratama",
+        "birthday": "Padang, 27 mei 1989",
+        "alamat": "jln by pass no 6 rt 01 rw 02 kel pulai anak air kec mandiangin koto selayan , bukittinggi",
+        "handphone": "0853 6300 4950",
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-0.911391,100.365975'>here</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.365975,
+          -0.911391
+        ]
+      }
+    }
   ]
 }
