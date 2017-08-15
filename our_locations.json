@@ -86,6 +86,23 @@
           -0.911391
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahyuni Hamdi",
+        "birthday": "Padang, 30 juli 1990",
+        "alamat": "Jl.jati v no 15 padang",
+        "handphone": "0821 6912 0500",
+        "googlemaps": "<a href='https://www.google.co.id/maps/place/-0.941300, 100.364469'>here</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364469,
+          -0.941300
+        ]
+      }
     }
   ]
 }
